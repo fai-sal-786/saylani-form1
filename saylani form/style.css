@@ -1,0 +1,269 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.parent1 {
+  height: 1680px;
+  width: 1350px;
+  background-color: #eeedeb;
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+}
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.banner {
+  height: 165px;
+  width: 1350px;
+  /* background-color: blue; */
+}
+
+.banner img {
+  height: 160px;
+  margin: 0px 385px;
+}
+
+p {
+  text-align: centre;
+  margin: 0px 785px;
+}
+
+.icons {
+  display: inline-block;
+  height: 60px;
+  width: 300px;
+  background-color: blue;
+}
+
+.icons img {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  margin: 15px 5px;
+}
+
+.icons1 {
+  display: flex;
+  height: 60px;
+  width: 700px;
+  background-color: blue;
+}
+
+.icons1 h1 {
+  margin: 10px 105px;
+}
+
+.btn1 {
+  height: 35px;
+  width: 125px;
+  color: blue;
+  border-radius: 15px;
+  margin: 15px;
+}
+
+.icons2 {
+  height: 60px;
+  width: 350px;
+  background-color: blue;
+}
+
+.icons3 {
+  height: 60px;
+  margin: 0px 495px;
+  font-size: 23px;
+}
+
+.nav {
+  height: 40px;
+  margin: 1px 500px;
+}
+
+.city {
+  margin-left: 40px;
+  display: inline;
+}
+
+.new {
+  position: absolute;
+  top: 270px;
+  left: 490px;
+}
+.idcard {
+  position: absolute;
+  top: 270px;
+
+  left: 608px;
+}
+.Results {
+  position: absolute;
+  top: 270px;
+
+  left: 731px;
+}
+.form1 {
+  display: flex;
+}
+
+input {
+  margin: 20px 20px;
+  width: 369px;
+  height: 40px;
+}
+
+.logo {
+  /* background-color: aqua; */
+  height: 150px;
+  width: 400px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 170px;
+  bottom: -50px;
+}
+.select {
+  /* background-color: aqua; */
+  height: 150px;
+  width: 400px;
+  position: absolute;
+  left: 591px;
+  bottom: -50px;
+}
+
+.logo1 {
+  height: 150px;
+  width: 400px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 170px;
+  bottom: -155px;
+}
+
+.select1 {
+  /* background-color: aqua; */
+  height: 150px;
+  width: 400px;
+  position: absolute;
+  left: 591px;
+  bottom: -155px;
+}
+
+.logo2 {
+  height: 150px;
+  width: 400px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 170px;
+  bottom: -255px;
+}
+
+.select2 {
+  height: 150px;
+  width: 400px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 591px;
+  bottom: -255px;
+}
+.logo3 {
+  height: 150px;
+  width: 400px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 170px;
+  bottom: -355px;
+}
+.select3 {
+  height: 150px;
+  width: 400px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 591px;
+  bottom: -355px;
+}
+.logo4 {
+  height: 150px;
+  width: 400px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 170px;
+  bottom: -455px;
+}
+.select4 {
+  height: 150px;
+  width: 400px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 591px;
+  bottom: -455px;
+}
+.logo5 {
+  height: 150px;
+  width: 820px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 170px;
+  bottom: -555px;
+}
+
+.logo5 input {
+  width: 790px;
+}
+.logo6 {
+  height: 150px;
+  width: 820px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 170px;
+  bottom: -655px;
+}
+.logo6 input {
+  width: 790px;
+}
+.logo7 {
+  height: 150px;
+  width: 820px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 170px;
+  bottom: -755px;
+}
+.logo7 input {
+  width: 790px;
+}
+.logo8 {
+  height: 150px;
+  width: 820px;
+  /* background-color: aqua; */
+  position: absolute;
+  left: 170px;
+  bottom: -855px;
+}
+.logo8 input {
+  width: 290px;
+}
+/* .logo8 ul li {
+  list-style-type: none;
+}
+.logo8 ul {
+  position: absolute;
+  bottom: -955px;
+  display: block;
+} */
+.rules {
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 1478px;
+  left: 146px;
+}
+
+.btn {
+  position: absolute;
+  height: 50px;
+  width: 800px;
+  top: 1608px;
+  left: 175px;
+  background-color: blue;
+  border-radius: 25px;
+}
